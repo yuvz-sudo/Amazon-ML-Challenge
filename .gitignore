@@ -9,3 +9,4 @@ output/*.tsv
 output/*.csv
 
 .DS_Store
+student_resource/
